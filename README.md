@@ -10,7 +10,7 @@ This project is made with SLIM PHP Framework version 2.
     * GET http://infouin.mnafian.net/data/news
 
 Example output :
-
+```json
 {
 @attributes: {
 version: "2.0"
@@ -42,6 +42,7 @@ description: "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 ]
 }
 }
+```
 
 * Info announcment:
     * GET http://infouin.mnafian.net/data/info
