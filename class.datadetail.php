@@ -10,7 +10,7 @@ class datadetail
 	static function detail() {
 		$app = Slim::getInstance();
 		 $link = $app->request->params('guid');
-		 $judul = $app->request->params('judul');
+		 $judul = $app->request->params('tittle');
 
 		$result = domparser::Parse($link, $judul);
 		print json_encode(array_values($result));

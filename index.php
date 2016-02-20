@@ -14,10 +14,10 @@ $app->get('/data/info', array('processdata', 'info'));
 $app->get('/data/article', array('processdata', 'article'));
 $app->get('/data/mahad', array('processdata', 'mahad'));
 
-$app->get('/data/profil', array('uindata', 'profil'));
-$app->get('/data/akademik', array('uindata', 'akademik'));
-$app->get('/data/organisasi', array('uindata', 'organisasi'));
-$app->get('/data/pendaftaran', array('uindata', 'pendaftaran'));
+$app->get('/data/profile', array('uindata', 'profil'));
+$app->get('/data/academic', array('uindata', 'akademik'));
+$app->get('/data/organization', array('uindata', 'organisasi'));
+$app->get('/data/registration', array('uindata', 'pendaftaran'));
 
 $app->post('/data/detail/', array('datadetail', 'detail'));
 
