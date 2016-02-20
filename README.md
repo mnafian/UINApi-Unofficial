@@ -188,8 +188,8 @@ Sample output :
     * POST http://infouin.mnafian.net/data/data/detail/
 
 Parameter : 
-guid : "link from list news/annoucment/article"
-tittle: "tittle from list news/annoucment/article"
+	* guid : "link from list news/annoucment/article"
+	* tittle: "tittle from list news/annoucment/article"
 
 Sample output :
 ```json
