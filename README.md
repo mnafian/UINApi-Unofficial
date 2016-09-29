@@ -2,7 +2,9 @@
 
 The following project is used to extract the data UIN Maliki's official website and shown into the data with JSON format. Data extraction purpose is to display the data in the form of news, announcements, and other information data to be more easily reused.
 
-This project is made with SLIM PHP Framework version 2.
+This project build  with SLIM PHP Framework 2.
+
+Open contribute is open and welcome to UIN Maliki member.
 
 ## Sample API Documentation request :
 
