@@ -185,7 +185,7 @@ Sample output :
 ```
 
 * Detail News/Announment/Article/Mahad:
-    * POST http://infouin.mnafian.net/data/data/detail/
+    * POST http://infouin.mnafian.net/data/detail
 
 Parameter : 
 * guid : "link from list news/annoucment/article"
