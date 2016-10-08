@@ -4,7 +4,7 @@ The following project is used to extract the data UIN Maliki's official website 
 
 This project build  with SLIM PHP Framework 2.
 
-Open contribute is open and welcome to UIN Maliki member.
+Open contribute is open and very welcome to UIN Maliki Malang member.
 
 ## Sample API Documentation request :
 
